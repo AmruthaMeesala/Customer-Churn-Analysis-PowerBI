@@ -1,58 +1,85 @@
 # Customer Churn Analysis Dashboard
 
-# Overview
+## Project Overview
 
-This project analyzes customer churn behavior using Power BI and provides insights into customer retention, churn trends, contract types, satisfaction levels, and regional performance.
+This Power BI project analyzes customer churn behavior and identifies the key factors contributing to customer attrition.
 
-# Tools Used
+The dashboard helps businesses understand churn patterns, customer satisfaction, contract type impact, and retention opportunities.
+
+---
+
+## Tools Used
 
 * Power BI
 * DAX
 * Power Query
 * Excel
 
-# Key KPIs
+---
+
+## Dataset Information
 
 * Total Customers: 5,000
 * Churned Customers: 1,783
 * Churn Rate: 35.66%
-* Average Satisfaction Score: 5.53
-* Active Customers: 3,217
 
-# Dashboard Pages
+---
 
-# Executive Summary
+## Dashboard Pages
 
-Overall customer retention and churn metrics.
+### 1. Executive Summary
 
-# Customer Segmentation
+Provides overall churn KPIs and business performance indicators.
 
-Analysis based on customer groups and demographics.
+### 2. Customer Segmentation
 
-# Risk Analysis
+Analyzes churn across different customer segments.
 
-Identification of high-risk customers likely to churn.
+### 3. Risk Analysis
 
-# Contract Analysis
+Identifies high-risk customers likely to churn.
 
-Comparison of churn across Month-to-Month, One-Year, and Two-Year contracts.
+### 4. Regional Analysis
 
-# Regional Analysis
+Examines churn behavior across different regions.
 
-Customer churn patterns across different regions.
+### 5. Insights & Recommendations
 
-#Key Insights
+Presents business findings, recommendations, and expected business impact.
 
-* Month-to-Month contracts show the highest churn.
-* Customer satisfaction has a strong impact on retention.
-* High support ticket volume is associated with increased churn risk.
-* Certain regions experience higher churn than others.
+---
 
- #Skills Demonstrated
+## Key Findings
+
+* Month-to-Month customers have the highest churn rate.
+* Lower customer satisfaction is strongly associated with churn.
+* Customers with more support tickets are more likely to leave.
+* Contract type significantly influences retention.
+
+---
+
+## Business Recommendations
+
+* Encourage long-term contracts through discounts and loyalty programs.
+* Improve customer support quality.
+* Focus retention efforts on high-risk customers.
+* Monitor customer satisfaction regularly.
+
+---
+
+## Skills Demonstrated
 
 * Data Cleaning
 * Data Modeling
 * DAX Measures
-* Interactive Dashboards
 * Business Intelligence
-* Data Visualization
+* Dashboard Design
+* Customer Retention Analytics
+
+---
+
+## Project Files
+
+* Power BI Dashboard 
+* Dashboard Screenshots
+* Demo Video
